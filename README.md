@@ -29,7 +29,7 @@ Você foi contratado para implementar um sistema de controle de projetos. A estr
 
 As entidades foram modeladas utilizando **JPA** conforme a estrutura definida pelo analista de requisitos.
 
-> 📸 _A imagem da modelagem será adicionada posteriormente._
+![image](https://github.com/user-attachments/assets/b60becbf-8e02-484c-88e9-0457283a8f78)
 
 ---
 
